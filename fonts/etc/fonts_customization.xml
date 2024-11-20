@@ -159,4 +159,9 @@
             <axis tag="wght" stylevalue="700"/>
         </font>
     </family>
+
+    <!-- Dela Gothic One -->
+    <family customizationType="new-named-family" name="dela-gothic-one-regular">
+        <font>DelaGothicOne_Regular.ttf</font>
+    </family>
 </fonts-modification>
